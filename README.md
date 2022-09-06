@@ -16,7 +16,7 @@
 
 8- Os números primos possuem várias aplicações dentro da Computação, por exemplo na Criptografia. Um número primo é aquele que é divisível apenas por um e por ele mesmo. Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
 
-9 - COmplemente o exercicio anterior mostrando todos os divisores dos numeros
+9 - Complemente o exercicio anterior mostrando todos os divisores dos numeros
 
 10 - Encontrar números primos é uma tarefa difícil. Faça um programa que gera uma lista dos números primos existentes entre 1 e um número inteiro informado pelo usuário.
 
